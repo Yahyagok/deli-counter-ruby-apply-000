@@ -30,3 +30,21 @@ puts "Currently serving #{katz_deli.shift}."
    
 end
 end
+
+def give_a_number(katz_deli)
+  
+ count = katz_deli.length+1
+ katz_deli.push(count)
+ 
+    
+    
+  
+  
+  
+end
+
+
+
+
+
+
